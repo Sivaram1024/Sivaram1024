@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sivaram1024&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://graciousquotes.com/wp-content/uploads/2021/08/Whatever-you-want-to-do-do-with-full-passion-and-work-really-hard-towards-it.-Dont-look-anywhere-else..jpg)
+![](https://i.postimg.cc/KvxXBG9R/1111-(2).jpg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sivaram1024&limit=5&theme=dark&combine_all_yearly_contributions=true)

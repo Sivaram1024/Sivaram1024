@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=Sivaram1024&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sivaram1024&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote that Drive Me
 ![](https://i.postimg.cc/KvxXBG9R/1111-(2).jpg)
 
 ### 🔝 Top Contributed Repo

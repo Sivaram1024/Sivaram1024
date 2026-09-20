@@ -2,8 +2,6 @@ name: Generate GitHub Statistics
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 2 * * *"
 
 permissions:
   contents: write
@@ -13,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v6
 
@@ -21,17 +18,30 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff
+          options: username=Sivaram1024&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff
           path: github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff
+          options: username=Sivaram1024&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff
           path: top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Check generated files
+        run: |
+          echo "===== github-stats.svg ====="
+          wc -c github-stats.svg
+          head -c 300 github-stats.svg
+          echo
+          echo "===== top-languages.svg ====="
+          wc -c top-languages.svg
+          head -c 300 top-languages.svg
+          echo
 
       - name: Commit generated statistics
         run: |
@@ -40,6 +50,6 @@ jobs:
 
           git add github-stats.svg top-languages.svg
 
-          git diff --cached --quiet || git commit -m "Update GitHub statistics"
+          git diff --cached --quiet || git commit -m "Generate GitHub statistics"
 
           git push

@@ -203,7 +203,7 @@ Developing knowledge in:
 <img
   src="https://streak-stats.demolab.com/?user=Sivaram1024&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"
   alt="GitHub Streak Stats"
-  width="850"
+  width="650"
 />
 
 </p>
@@ -261,7 +261,7 @@ Developing knowledge in:
 <img
   src="./github-stats.svg"
   alt="GitHub Statistics"
-  width="850"
+  width="650"
 />
 
 <br><br>
@@ -269,7 +269,7 @@ Developing knowledge in:
 <img
   src="./top-languages.svg"
   alt="Top Languages"
-  width="850"
+  width="650"
 />
 
 </p>

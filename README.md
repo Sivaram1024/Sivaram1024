@@ -59,7 +59,7 @@
 # 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql" height="65" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" height="65" alt="Programming Languages" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 # 📊 Data Analytics & Visualization
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,pandas,numpy,matplotlib" height="65" alt="Data Analytics and Visualization" />
+  <img src="https://skillicons.dev/icons?i=microsoftexcel,powerbi,pandas,numpy,matplotlib" height="65" alt="Data Analytics and Visualization" />
 </p>
 
 ---

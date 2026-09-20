@@ -201,9 +201,9 @@ Developing knowledge in:
 <p align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/github-streak-stats.svg"
+  src="https://streak-stats.demolab.com/?user=Sivaram1024&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"
   alt="GitHub Streak Stats"
-  width="750"
+  width="850"
 />
 
 </p>

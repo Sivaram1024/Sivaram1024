@@ -203,7 +203,7 @@ Developing knowledge in:
 <img
   src="https://streak-stats.demolab.com/?user=Sivaram1024&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"
   alt="GitHub Streak Stats"
-  width="650"
+  width="600"
 />
 
 </p>
@@ -261,7 +261,7 @@ Developing knowledge in:
 <img
   src="./github-stats.svg"
   alt="GitHub Statistics"
-  width="650"
+  width="600"
 />
 
 <br><br>
@@ -269,7 +269,7 @@ Developing knowledge in:
 <img
   src="./top-languages.svg"
   alt="Top Languages"
-  width="650"
+  width="600"
 />
 
 </p>
@@ -280,10 +280,9 @@ Developing knowledge in:
 
 <p align="center">
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
-  alt="Developer Quote"
-/>
+> **“Whatever you want to do, do with full passion, and work really hard towards it. Don't look anywhere else.”**
+>
+> — **Virat Kohli**
 
 </p>
 

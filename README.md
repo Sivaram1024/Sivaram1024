@@ -276,15 +276,8 @@ Developing knowledge in:
 
 ---
 
-# 💬 Quote That Drives Me
-
-<p align="center">
-
-> **“Whatever you want to do, do with full passion, and work really hard towards it. Don't look anywhere else.”**
->
-> — **Virat Kohli**
-
-</p>
+### ✍️ Quote that Drive Me
+![](https://i.postimg.cc/KvxXBG9R/1111-(2).jpg)
 
 ---
 

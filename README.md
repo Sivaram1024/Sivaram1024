@@ -61,7 +61,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mongodb,git,github,docker,sql&perline=9" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mongodb,git,github,docker,sql,excel,powerbi,numpy,pandas,numpy&perline=9" alt="Technology stack"/>
 </p>
 
 

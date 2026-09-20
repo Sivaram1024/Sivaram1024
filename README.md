@@ -252,12 +252,14 @@ Developing knowledge in:
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/github-stats.svg"
+  src="./github-stats.svg"
   alt="GitHub Statistics"
   width="850"
 />
@@ -265,12 +267,14 @@ Developing knowledge in:
 <br><br>
 
 <img
-  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/top-languages.svg"
+  src="./top-languages.svg"
   alt="Top Languages"
   width="850"
 />
 
 </p>
+
+---
 
 ---
 

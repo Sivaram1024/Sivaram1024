@@ -56,50 +56,18 @@
 
 </p>
 
-# 💻 Languages
+# 💻 Tech Stack
+
+## 👨‍💻 Programming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" height="65" alt="Programming Languages" />
-</p>
 
----
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-# 📊 Data Analytics & Visualization
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=microsoftexcel,powerbi,pandas,numpy,matplotlib" height="65" alt="Data Analytics and Visualization" />
-</p>
-
----
-
-# 🤖 AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" height="65" alt="AI and Machine Learning" />
-</p>
-
----
-
-# 🗄️ Databases & Data Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,snowflake" height="65" alt="Databases and Data Platforms" />
-</p>
-
----
-
-# ⚙️ Automation & Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postman,git,github" height="65" alt="Automation and Development" />
-</p>
-
----
-
-# 🔧 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" height="65" alt="Development Tools" />
 </p>
 
 # 🚀 What I'm Working On

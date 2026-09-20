@@ -1,118 +1,428 @@
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Engineering%20%7C%20Full-Stack%20Developer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+# 👋 Hi, I'm Varanasi Siva Rama Krishna
 
-<!-- ANIMATED TYPING -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:0ea5e9&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%93%8A+Turning+Data+Into+Actionable+Insights;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%E2%9A%99%EF%B8%8F+Building+Data-Driven+Solutions;%F0%9F%9A%80+Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <a href="https://github.com/Sivaram1024">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%9A%80+Building+AI+%26+Data-Driven+Applications;%F0%9F%92%A1+Turning+Ideas+Into+Production-Ready+Projects;%E2%9A%A1+Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Data+%7C+Cloud" alt="Typing SVG"/>
+    <img src="https://img.shields.io/badge/GitHub-Sivaram1024-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sivaram2410/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sivaramkrishna2410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://github.com/Sivaram1024"><img src="https://img.shields.io/badge/GitHub-Sivaram1024-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/></a>
-  &nbsp;
-  <a href="mailto:sivaramkrishna2410@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sivaram1024&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
+  <img src="https://komarev.com/ghpvc/?username=Sivaram1024&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
+🎓 I'm a **B.Tech Artificial Intelligence & Machine Learning student** passionate about data, intelligent systems, and technology.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Varanasi Siva Rama Krishna"
-        self.roles = [
-            "AI & Data Engineering Enthusiast",
-            "Full-Stack Developer"
-        ]
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech AIML"
+📊 I enjoy transforming **raw data into meaningful insights** using analytics, visualization, and machine learning.
 
-    def tech_stack(self):
-        return {
-            "languages": ["C", "C++"],
-            "backend": ["FastAPI"],
-            "data": ["Pandas", "NumPy", "Matplotlib", "Power BI"],
-            "databases": ["MongoDB", "MySQL"],
-            "tools": ["Git", "GitHub", "Postman"]
-        }
+⚙️ I build **automation workflows** that simplify repetitive processes and improve productivity.
 
-    def current_focus(self):
-        return [
-            "🚀 Building practical AI and data-driven applications",
-            "🌱 Strengthening software engineering and DSA skills",
-            "📊 Exploring analytics, visualization and data engineering",
-            "🤝 Open to internships, collaborations and impactful projects"
-        ]
-```
+🤖 I'm continuously exploring **Machine Learning, Artificial Intelligence, predictive modeling, and scalable data engineering**.
+
+🌱 Currently strengthening my skills in **Data Science, Data Engineering, DSA, Python, SQL, and cloud technologies**.
+
+💬 Ask me about **Excel, Power BI, Power Automate, SharePoint, Snowflake, Python, SQL, Pandas, and NumPy**.
+
+⚡ I enjoy solving complex problems, building practical projects, and continuously learning new technologies.
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/github-streak-stats.svg" alt="GitHub Streak Stats"/></p>
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+
+![Data Science](https://img.shields.io/badge/Data%20Science-2563EB?style=for-the-badge&logo=databricks&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-334155?style=for-the-badge&logo=databricks&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-2563EB?style=for-the-badge&logo=powerautomate&logoColor=white)
+
 </p>
 
 ---
 
-## 🕹️ Pac-Man Eats My Contributions!
+# 💻 Tech Stack
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/></p>
+## 👨‍💻 Programming
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+</p>
+
+## 📊 Data Analytics & Visualization
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
+</p>
+
+## 🤖 AI & Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
+
+</p>
+
+## 🗄️ Databases & Data Platforms
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+
+</p>
+
+## ⚙️ Automation & Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</p>
+
+## 🔧 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🚀 What I'm Working On
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/github-snake.svg" alt="GitHub contribution snake"/></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 📊 Data Analytics
+
+Transforming raw datasets into meaningful insights using:
+
+- Power BI
+- Excel
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Artificial Intelligence
+
+Exploring:
+
+- Machine Learning
+- Predictive Modeling
+- AI Applications
+- Data-driven Decision Systems
+- Intelligent Solutions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ⚙️ Automation
+
+Creating automated workflows using:
+
+- Power Automate
+- SharePoint
+- Excel
+- Outlook
+- Microsoft Ecosystem
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🗄️ Data Engineering
+
+Developing knowledge in:
+
+- SQL
+- Snowflake
+- Data Pipelines
+- Data Architecture
+- ETL Concepts
+- Scalable Data Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 🔥 GitHub Streak
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/github-stats.svg" alt="GitHub Statistics"/><br/><img src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/top-languages.svg" alt="Top Languages"/></p>
+<p align="center">
 
----
+<img
+  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/github-streak-stats.svg"
+  alt="GitHub Streak Stats"
+  width="750"
+/>
 
-## 🌟 Mission Statement
-
-Build useful software, explore emerging technologies, strengthen engineering fundamentals, contribute to open source, and turn ambitious ideas into reliable systems.
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/></p>
+</p>
 
 ---
 
-## ⚡ Open to Internships, Collaborations & Research
+# 🕹️ Pac-Man Eats My Contributions
 
-<p align="center"><a href="mailto:sivaramkrishna2410@gmail.com"><img src="https://img.shields.io/badge/Contact-sivaramkrishna2410%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Contact"/></a></p>
+<p align="center">
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d4f8c,100:0a0e27&height=100&section=footer" alt="Footer"/></p>
+<img
+  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph.svg"
+  alt="Pac-Man Contribution Graph"
+  width="900"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="900"
+  />
+
+</picture>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/github-stats.svg"
+  alt="GitHub Statistics"
+  width="850"
+/>
+
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/main/top-languages.svg"
+  alt="Top Languages"
+  width="850"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaram1024&bg_color=ffffff&color=111827&line=2563eb&point=0ea5e9&area=true&hide_border=true"
+  alt="Contribution Activity Graph"
+  width="95%"
+/>
+
+</p>
+
+---
+
+# 💡 My Development Approach
+
+```text
+                    ┌─────────────────┐
+                    │     RAW DATA    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ CLEAN & PROCESS │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ ANALYZE & LEARN │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ DISCOVER INSIGHT│
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ BUILD SOLUTION  │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    AUTOMATE     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ ACTIONABLE VALUE│
+                    └─────────────────┘
+```
+
+---
+
+# 🎯 Current Goals
+
+- 🐍 Master Python
+- 🧠 Strengthen DSA & Problem Solving
+- 📊 Advance Data Analytics
+- 🤖 Build Machine Learning Projects
+- 🗄️ Improve Data Engineering Skills
+- ☁️ Explore Cloud Technologies
+- 🚀 Build Production-Ready Projects
+- 📚 Prepare for GATE 2027
+- 🌐 Contribute to Open-Source Projects
+
+---
+
+# 🌟 Areas of Interest
+
+<p align="center">
+
+| 📊 Data Science | 🤖 Artificial Intelligence |
+|:---:|:---:|
+| Data Analysis | Machine Learning |
+| Data Visualization | Predictive Modeling |
+| Statistical Analysis | AI Applications |
+| Python & SQL | Intelligent Systems |
+
+| 🗄️ Data Engineering | ⚙️ Automation |
+|:---:|:---:|
+| Data Pipelines | Power Automate |
+| Snowflake | SharePoint |
+| ETL | Excel |
+| Data Architecture | Workflow Optimization |
+
+</p>
+
+---
+
+# 💬 Quote That Drives Me
+
+<p align="center">
+
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+  alt="Developer Quote"
+/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sivaram2410/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sivaram%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sivaramkrishna2410@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sivaramkrishna2410-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Sivaram1024">
+  <img src="https://img.shields.io/badge/GitHub-Sivaram1024-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%7C%20COLLABORATIONS%20%7C%20RESEARCH-2563EB?style=for-the-badge"
+  alt="Open to opportunities"
+/>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Learn • Build • Analyze • Automate • Improve</b>
+</p>
+
+<p align="center">
+  <sub>Designed & Developed by Varanasi Siva Rama Krishna</sub>
+</p>
+
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:111827&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=Sivaram1024&style=flat-square&color=2563EB"
+  alt="Profile Views"
+/>
+
+</p>

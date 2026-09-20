@@ -61,14 +61,14 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mongodb,git,github,docker,sql,excel,powerbi,numpy,pandas,numpy&perline=9" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mongodb,git,github,docker,sql&perline=9" alt="Technology stack"/>
 </p>
 
 
 ## 📊 Data Analytics & Visualization
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,pandas,numpy&perline=9" alt="Data Analytics & Visualization"/>
+  <img src="https://skillicons.dev/icons?i=microsoftexcel,powerbi,pandas,numpy,matplotlib&perline=9" alt="Data Analytics & Visualization"/>
 </p>
 
 

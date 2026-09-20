@@ -1,1 +1,51 @@
+name: Generate GitHub Stats
 
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "30 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        run: |
+          curl -L \
+            "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" \
+            -o github-stats.svg
+
+      - name: Generate Top Languages
+        run: |
+          curl -L \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=default" \
+            -o top-languages.svg
+
+      - name: Verify generated files
+        run: |
+          test -s github-stats.svg
+          test -s top-languages.svg
+          echo "GitHub statistics generated successfully."
+          ls -lh github-stats.svg top-languages.svg
+
+      - name: Commit statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-stats.svg top-languages.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub statistics"
+
+          git push

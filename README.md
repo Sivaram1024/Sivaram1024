@@ -26,57 +26,20 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
+🎓 B.Tech Artificial Intelligence & Machine Learning student focused on
+Data Science, AI, Data Engineering and Automation.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Sivaram"
-        self.roles = [
-            "Full-Stack Architect",
-            "AI Engineer"
-        ]
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech Computer Science"
+📊 I enjoy transforming raw data into actionable insights using
+Power BI, Excel, SQL, Pandas and NumPy.
 
-    def tech_stack(self):
-        return {
-            "frontend": [
-                "React",
-                "Next.js",
-                "JavaScript",
-                "HTML/CSS"
-            ],
-            "backend": [
-                "Python",
-                "FastAPI",
-                "PostgreSQL",
-                "Supabase"
-            ],
-            "cloud_ai": [
-                "Docker",
-                "Git",
-                "Gemini API",
-                "Linux"
-            ]
-        }
+🤖 Currently exploring Machine Learning, predictive modeling and
+intelligent data-driven applications.
 
-    def current_focus(self):
-        return [
-            "🚀 Building impactful software & AI workflows",
-            "🌱 Expanding distributed systems knowledge",
-            "👯 Open source collaborations & hackathons",
-            "⚡ Debugging with coffee ☕"
-        ]
-```
+⚙️ I also build automation workflows using Power Automate and SharePoint.
 
-<br clear="right"/>
-
----
+🌱 Continuously improving my problem-solving, DSA and data engineering skills.
 
 ## 🔥 Streak Stats
 

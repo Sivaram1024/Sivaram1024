@@ -276,21 +276,6 @@ Developing knowledge in:
 
 ---
 
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaram1024&bg_color=ffffff&color=111827&line=2563eb&point=0ea5e9&area=true&hide_border=true"
-  alt="Contribution Activity Graph"
-  width="95%"
-/>
-
-</p>
-
-
 # 💬 Quote That Drives Me
 
 <p align="center">

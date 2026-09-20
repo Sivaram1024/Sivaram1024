@@ -269,7 +269,7 @@ Developing knowledge in:
 <img
   src="./top-languages.svg"
   alt="Top Languages"
-  width="200"
+  width="400"
 />
 
 </p>

@@ -1,4 +1,4 @@
-name: Generate GitHub Stats
+name: Generate GitHub Statistics
 
 on:
   workflow_dispatch:
@@ -13,10 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats

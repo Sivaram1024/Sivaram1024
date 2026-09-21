@@ -326,13 +326,10 @@ Developing knowledge in:
 </p>
 
 <p align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:111827&height=100&section=footer"
-  width="100%"
-  alt="Footer"
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:222222,65:555555,100:000000&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">

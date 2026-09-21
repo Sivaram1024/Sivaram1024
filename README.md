@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Varanasi Siva Rama Krishna
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:0ea5e9&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:ffffff&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">

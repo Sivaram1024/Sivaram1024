@@ -281,7 +281,11 @@ Developing knowledge in:
 
 ---
 
-# 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+  <hr width="55%">
+</div>
 
 <p align="center">
 

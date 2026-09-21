@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main
+
   workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
 
@@ -17,6 +19,7 @@ jobs:
     timeout-minutes: 20
 
     steps:
+
       - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -24,7 +27,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: github-dark
 
-      - name: Push SVGs to output branch
+      - name: Push Pacman SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist

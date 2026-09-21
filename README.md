@@ -256,15 +256,30 @@ Developing knowledge in:
 
 <p align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph.svg"
-  alt="Pac-Man Contribution Graph"
-  width="750"
-/>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
+    width="750"
+  />
+
+</picture>
 
 </p>
 
 ---
+
 
 # 🐍 Contribution Snake
 

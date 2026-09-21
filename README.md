@@ -323,7 +323,7 @@ Developing knowledge in:
 <img
   src="https://i.postimg.cc/KvxXBG9R/1111-(2).jpg"
   alt="Motivational Quote"
-  width="200"
+  width="400"
 />
 
 </p>

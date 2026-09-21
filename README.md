@@ -2,29 +2,49 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:ffffff&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn"
     width="100%"
+    alt="Header Banner"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%93%8A+Turning+Data+Into+Actionable+Insights;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%E2%9A%99%EF%B8%8F+Building+Data-Driven+Solutions;%F0%9F%9A%80+Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%93%8A+Turning+Data+Into+Actionable+Insights;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%E2%9A%99%EF%B8%8F+Building+Data-Driven+Solutions;%F0%9F%9A%80+Learning+%7C+Building+%7C+Improving"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
+
   <a href="https://github.com/Sivaram1024">
-    <img src="https://img.shields.io/badge/GitHub-Sivaram1024-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-Sivaram1024-000000?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/sivaram2410/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:sivaramkrishna2410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sivaram1024&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Sivaram1024&style=for-the-badge&color=000000&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -51,11 +71,30 @@
 
 <p align="center">
 
-![Data Science](https://img.shields.io/badge/Data%20Science-2563EB?style=for-the-badge&logo=databricks&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-334155?style=for-the-badge&logo=databricks&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-2563EB?style=for-the-badge&logo=powerautomate&logoColor=white)
+<img
+  src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&logo=databricks&logoColor=white"
+  alt="Data Science"
+/>
+
+<img
+  src="https://img.shields.io/badge/Artificial%20Intelligence-222222?style=for-the-badge&logo=openai&logoColor=white"
+  alt="Artificial Intelligence"
+/>
+
+<img
+  src="https://img.shields.io/badge/Machine%20Learning-444444?style=for-the-badge&logo=scikitlearn&logoColor=white"
+  alt="Machine Learning"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Engineering-333333?style=for-the-badge&logo=databricks&logoColor=white"
+  alt="Data Engineering"
+/>
+
+<img
+  src="https://img.shields.io/badge/Automation-555555?style=for-the-badge&logo=powerautomate&logoColor=white"
+  alt="Automation"
+/>
 
 </p>
 
@@ -67,11 +106,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-444444?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 </p>
 
@@ -79,11 +118,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-222222?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-444444?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-555555?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 
 </p>
 
@@ -91,9 +130,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+<img src="https://img.shields.io/badge/Machine%20Learning-333333?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-555555?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 
 </p>
 
@@ -101,9 +140,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Snowflake-555555?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 
 </p>
 
@@ -111,10 +150,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-000000?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+<img src="https://img.shields.io/badge/SharePoint-333333?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+<img src="https://img.shields.io/badge/FastAPI-444444?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Postman-555555?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </p>
 
@@ -122,10 +161,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jupyter-444444?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/VS%20Code-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </p>
 
@@ -220,7 +259,7 @@ Developing knowledge in:
 <img
   src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph.svg"
   alt="Pac-Man Contribution Graph"
-  width="900"
+  width="750"
 />
 
 </p>
@@ -246,14 +285,12 @@ Developing knowledge in:
   <img
     src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/github-snake.svg"
     alt="GitHub Contribution Snake"
-    width="900"
+    width="750"
   />
 
 </picture>
 
 </p>
-
----
 
 ---
 
@@ -279,12 +316,21 @@ Developing knowledge in:
 
 ---
 
-### ✍️ Quote that Drive Me
-![](https://i.postimg.cc/KvxXBG9R/1111-(2).jpg)
+### ✍️ Quote That Drives Me
+
+<p align="center">
+
+<img
+  src="https://i.postimg.cc/KvxXBG9R/1111-(2).jpg"
+  alt="Motivational Quote"
+  width="400"
+/>
+
+</p>
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+# 🤝 Let's Connect
 
 <div align="center">
   <hr width="55%">
@@ -293,15 +339,24 @@ Developing knowledge in:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sivaram2410/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sivaram%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Sivaram%20Krishna-333333?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:sivaramkrishna2410@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sivaramkrishna2410-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Gmail-sivaramkrishna2410-444444?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 
 <a href="https://github.com/Sivaram1024">
-  <img src="https://img.shields.io/badge/GitHub-Sivaram1024-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-Sivaram1024-000000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </p>
@@ -309,7 +364,7 @@ Developing knowledge in:
 <p align="center">
 
 <img
-  src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%7C%20COLLABORATIONS%20%7C%20RESEARCH-2563EB?style=for-the-badge"
+  src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%7C%20COLLABORATIONS%20%7C%20RESEARCH-222222?style=for-the-badge"
   alt="Open to opportunities"
 />
 
@@ -326,16 +381,19 @@ Developing knowledge in:
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:222222,65:555555,100:000000&height=220&section=header&text=Varanasi%20Siva%20Rama%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn"
-    width="100%"
-  />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,40:222222,70:111111,100:000000&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
 </p>
 
 <p align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=Sivaram1024&style=flat-square&color=2563EB"
+  src="https://komarev.com/ghpvc/?username=Sivaram1024&style=flat-square&color=000000"
   alt="Profile Views"
 />
 

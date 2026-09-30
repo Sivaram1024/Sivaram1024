@@ -67,6 +67,34 @@
 
 ---
 
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://sivaram1024.github.io/Portfolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Explore My Portfolio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Explore my projects, technical skills, certifications, experience, and AI-driven solutions.</b>
+</p>
+
+<p align="center">
+  <a href="https://sivaram1024.github.io/Portfolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/View%20Portfolio-333333?style=for-the-badge"
+      alt="View Portfolio"
+    />
+  </a>
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 <p align="center">

@@ -437,9 +437,9 @@ Developing knowledge in:
 
 <p align="center">
 
-<img
-  src="https://komarev.com/ghpvc/?username=Sivaram1024&style=flat-square&color=000000"
-  alt="Profile Views"
-/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Sivaram1024&label=PROFILE+VIEWS&color=000000&style=for-the-badge"
+    alt="Profile Views"
+  />
 
 </p>

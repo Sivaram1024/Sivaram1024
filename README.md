@@ -299,7 +299,7 @@ Developing knowledge in:
   <img
     src="https://raw.githubusercontent.com/Sivaram1024/Sivaram1024/output/pacman-contribution-graph.svg"
     alt="Pac-Man Contribution Graph"
-    width="750"
+    width="850"
   />
 
 </picture>

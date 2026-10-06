@@ -41,12 +41,10 @@
 </p>
 
 <p align="center">
-
   <img
-    src="https://komarev.com/ghpvc/?username=Sivaram1024&label=PROFILE+VIEWS&color=000000&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Sivaram1024&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
-
 </p>
 
 ---
@@ -406,10 +404,8 @@ Developing knowledge in:
 </p>
 
 <p align="center">
-
   <img
-    src="https://komarev.com/ghpvc/?username=Sivaram1024&label=PROFILE+VIEWS&color=000000&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Sivaram1024&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
-
 </p>
